@@ -1,0 +1,10 @@
+version: '3.9'
+
+# services:
+#   a:
+
+networks:
+  worker-poc:
+
+volumes:
+  worker-poc:
